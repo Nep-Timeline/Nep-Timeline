@@ -3,7 +3,6 @@
 [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=twitter" alt="Nep_Timeline" />](https://twitter.com/Nep_Timeline)
-[<img height="26" src="https://shields.io/badge/Channel-ffffff.svg?style=flat-square&logo=discord" alt="Channel" />](https://discord.gg/VErtkWM)
 [<img height="26" src="https://shields.io/badge/Timeline2338-ffffff.svg?style=flat-square&logo=discord" alt="Timeline#2338" />](https://discord.com/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=telegram" alt="Nep_Timeline" />](https://t.me/nep_timeline)
 
