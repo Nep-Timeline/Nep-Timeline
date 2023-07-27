@@ -6,3 +6,4 @@
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=twitter" alt="Nep_Timeline" />](https://twitter.com/Nep_Timeline)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=discord" alt="Nep_Timeline" />](https://discord.com/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=telegram" alt="Nep_Timeline" />](https://t.me/nep_timeline)
+[<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=threads" alt="Nep_Timeline" />](https://threads.net/Nep_Timeline)
