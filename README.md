@@ -8,5 +8,5 @@
 [<img height="26" src="https://shields.io/badge/GitGud-000000.svg?style=flat-square&logo=Gitlab" alt="Nep_Timeline" />](https://gitgud.io/Nep_Timeline)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=discord" alt="Nep_Timeline" />](https://discord.com/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=telegram" alt="Nep_Timeline" />](https://t.me/nep_timeline)
-[<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=steam" alt="咲夜Sakura" />](https://steamcommunity.com/id/Sakion_Sakura/)
+[<img height="26" src="https://shields.io/badge/咲夜Sakura-000000.svg?style=flat-square&logo=steam" alt="咲夜Sakura" />](https://steamcommunity.com/id/Sakion_Sakura/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=threads" alt="Nep_Timeline" />](https://threads.net/Nep_Timeline)
