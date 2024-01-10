@@ -8,14 +8,18 @@ Simple Game Hacking, Android & Windows Application develop
 
 ## Programming Languages
 
+[<img height="26" src="https://shields.io/badge/Java-F80000.svg?style=flat-square&logo=oracle&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Java_(programming_language))
+[<img height="26" src="https://shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=000000"/>](https://wikipedia.org/wiki/JavaScript)
+[<img height="26" src="https://shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Kotlin_(programming_language))
 [<img height="26" src="https://shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C_(programming_language))
+[<img height="26" src="https://shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C%2B%2B)
 
 ## Contact Us
 
-[<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=X" alt="Nep_Timeline" />](https://x.com/Nep_Timeline)
-[<img height="26" src="https://shields.io/badge/GitLab-000000.svg?style=flat-square&logo=Gitlab" alt="Nep_Timeline" />](https://gitlab.com/Nep_Timeline)
-[<img height="26" src="https://shields.io/badge/GitGud-000000.svg?style=flat-square&logo=Gitlab" alt="Nep_Timeline" />](https://gitgud.io/Nep_Timeline)
-[<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=discord" alt="Nep_Timeline" />](https://discord.com/)
-[<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=telegram" alt="Nep_Timeline" />](https://t.me/nep_timeline)
-[<img height="26" src="https://shields.io/badge/咲夜Sakura-000000.svg?style=flat-square&logo=steam" alt="咲夜Sakura" />](https://steamcommunity.com/id/Sakion_Sakura/)
-[<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=threads" alt="Nep_Timeline" />](https://threads.net/Nep_Timeline)
+[<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=X"/>](https://x.com/Nep_Timeline)
+[<img height="26" src="https://shields.io/badge/GitLab-000000.svg?style=flat-square&logo=Gitlab"/>](https://gitlab.com/Nep_Timeline)
+[<img height="26" src="https://shields.io/badge/GitGud-000000.svg?style=flat-square&logo=Gitlab"/>](https://gitgud.io/Nep_Timeline)
+[<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=discord"/>](https://discord.com/)
+[<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=telegram"/>](https://t.me/nep_timeline)
+[<img height="26" src="https://shields.io/badge/咲夜Sakura-000000.svg?style=flat-square&logo=steam"/>](https://steamcommunity.com/id/Sakion_Sakura/)
+[<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=threads"/>](https://threads.net/Nep_Timeline)
