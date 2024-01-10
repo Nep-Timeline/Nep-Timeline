@@ -1,6 +1,16 @@
 # Hi there! I'm a Timeline (Also known as | Sakion丶Sakura)! 👋
-[![Timeline's Top language](https://github-readme-stats.vercel.app/api/top-langs?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Timeline's Top language](https://github-readme-stats.vercel.app/api/top-langs?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## What can I do?
+
+Simple Game Hacking, Android & Windows Application develop
+
+## Programming Languages
+
+[<img height="26" src="https://shields.io/badge/C-a8b9cc.svg?style=flat-square&logo=C"/>]
+
+## Contact Us
 
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=X" alt="Nep_Timeline" />](https://x.com/Nep_Timeline)
 [<img height="26" src="https://shields.io/badge/GitLab-000000.svg?style=flat-square&logo=Gitlab" alt="Nep_Timeline" />](https://gitlab.com/Nep_Timeline)
