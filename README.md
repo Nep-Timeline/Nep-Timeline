@@ -9,7 +9,7 @@
 [<img height="26" src="https://shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Kotlin_(programming_language))
 [<img height="26" src="https://shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C_(programming_language))
 [<img height="26" src="https://shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C%2B%2B)
-[<img height="26" src="https://shields.io/badge/Rust-000000.svg?style=flat-square&logo=rust&logoColor=FFFFFF"/>](https://en.wikipedia.org/wiki/Rust_(programming_language))
+[<img height="26" src="https://shields.io/badge/Rust-FFFFFF.svg?style=flat-square&logo=rust&logoColor=000000"/>](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 ## Contact Us
 
