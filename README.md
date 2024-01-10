@@ -8,7 +8,7 @@ Simple Game Hacking, Android & Windows Application develop
 
 ## Programming Languages
 
-[<img height="26" src="https://shields.io/badge/C-a8b9cc.svg?style=flat-square&logo=C"/>]
+[<img height="26" src="https://shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C_(programming_language))
 
 ## Contact Us
 
