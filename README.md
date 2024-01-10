@@ -2,10 +2,6 @@
 [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Timeline's Top language](https://github-readme-stats.vercel.app/api/top-langs?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## What can I do?
-
-Simple Game Hacking, Android & Windows Application develop
-
 ## Programming Languages
 
 [<img height="26" src="https://shields.io/badge/Java-F80000.svg?style=flat-square&logo=oracle&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Java_(programming_language))
