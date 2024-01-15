@@ -11,6 +11,10 @@
 [<img height="26" src="https://shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C%2B%2B)
 [<img height="26" src="https://shields.io/badge/Rust-FFFFFF.svg?style=flat-square&logo=rust&logoColor=000000"/>](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
+## Current Devices
+
+[<img height="26" src="https://shields.io/badge/Fuxi-FFFFFF.svg?style=flat-square&logo=XiaoMi"/>](https://www.mi.com/hk/product/xiaomi-13/)
+
 ## Contact Us
 
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=X"/>](https://x.com/Nep_Timeline)
