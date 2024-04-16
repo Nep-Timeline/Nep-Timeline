@@ -28,4 +28,4 @@
 ## Support us
 
 [<img height="26" src="https://shields.io/badge/Alipay-ffffff.svg?style=flat-square&logo=Alipay"/>](https://sakion.top/support/alipay_nolimit.jpg)
-[<img height="26" src="https://shields.io/badge/Alipay-ffffff.svg?style=flat-square&logo=WeChat"/>](https://sakion.top/support/wechat_nolimit.jpg)
+[<img height="26" src="https://shields.io/badge/WeChat-ffffff.svg?style=flat-square&logo=WeChat"/>](https://sakion.top/support/wechat_nolimit.jpg)
