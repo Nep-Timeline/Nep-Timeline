@@ -13,7 +13,7 @@
 
 ## Current Devices
 
-[<img height="26" src="https://shields.io/badge/Fuxi-FFFFFF.svg?style=flat-square&logo=XiaoMi"/>](https://www.mi.com/hk/product/xiaomi-13/)
+[<img height="26" src="https://shields.io/badge/Houji-FFFFFF.svg?style=flat-square&logo=XiaoMi"/>](https://www.mi.com/hk/product/xiaomi-14/)
 
 ## Contact Us
 
