@@ -7,6 +7,7 @@
 [<img height="26" src="https://shields.io/badge/Java-F80000.svg?style=flat-square&logo=oracle&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Java_(programming_language))
 [<img height="26" src="https://shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=000000"/>](https://wikipedia.org/wiki/JavaScript)
 [<img height="26" src="https://shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Kotlin_(programming_language))
+[<img height="26" src="https://shields.io/badge/Scala-000000.svg?style=flat-square&logo=scala&logoColor=F80000"/>](https://wikipedia.org/wiki/Scala_(programming_language))
 [<img height="26" src="https://shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C_(programming_language))
 [<img height="26" src="https://shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C%2B%2B)
 [<img height="26" src="https://shields.io/badge/Rust-FFFFFF.svg?style=flat-square&logo=rust&logoColor=000000"/>](https://en.wikipedia.org/wiki/Rust_(programming_language))
