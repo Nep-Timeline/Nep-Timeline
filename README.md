@@ -25,7 +25,7 @@
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=telegram"/>](https://t.me/nep_timeline)
 [<img height="26" src="https://shields.io/badge/咲夜Sakura-000000.svg?style=flat-square&logo=steam"/>](https://steamcommunity.com/id/Sakion_Sakura/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=threads"/>](https://threads.net/Nep_Timeline)
-[<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=bluesky"/>](https://timelinne.bsky.social)
+[<img height="26" src="https://shields.io/badge/Timelinne-000000.svg?style=flat-square&logo=bluesky"/>](https://timelinne.bsky.social)
 
 ## Support us
 
