@@ -14,8 +14,8 @@
 
 ## Current Mobile Devices
 
-[<img height="26" src="https://shields.io/badge/XiaoMi 15 Pro-FFFFFF.svg?style=flat-square&logo=Xiaomi"/>](https://www.mi.com/prod/xiaomi-15-pro)
-[<img height="26" src="https://shields.io/badge/Meizu 20 Classic-FFFFFF.svg?style=flat-square&logo=MeiZu"/>](https://detail.mall.meizu.com/item/meizu20Classic.html?click=mall_list_lc_kw_49)
+[<img height="26" src="https://shields.io/badge/Xiaomi 15 Pro-FFFFFF.svg?style=flat-square&logo=Xiaomi"/>](https://www.mi.com/prod/xiaomi-15-pro)
+[<img height="26" src="https://shields.io/badge/Meizu 20 Classic-FFFFFF.svg?style=flat-square&logo=Meizu"/>](https://detail.mall.meizu.com/item/meizu20Classic.html?click=mall_list_lc_kw_49)
 
 ## Contact Us
 
