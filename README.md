@@ -12,20 +12,20 @@
 [<img height="26" src="https://shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C%2B%2B)
 [<img height="26" src="https://shields.io/badge/Rust-FFFFFF.svg?style=flat-square&logo=rust&logoColor=000000"/>](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
-## Current Devices
+## Current Mobile Devices
 
-[<img height="26" src="https://shields.io/badge/XiaoMi 15 Pro-FFFFFF.svg?style=flat-square&logo=XiaoMi"/>](https://www.mi.com/prod/xiaomi-15-pro)
+[<img height="26" src="https://shields.io/badge/XiaoMi 15 Pro-FFFFFF.svg?style=flat-square&logo=Xiaomi"/>](https://www.mi.com/prod/xiaomi-15-pro)
 [<img height="26" src="https://shields.io/badge/Meizu 20 Classic-FFFFFF.svg?style=flat-square&logo=MeiZu"/>](https://detail.mall.meizu.com/item/meizu20Classic.html?click=mall_list_lc_kw_49)
 
 ## Contact Us
 
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=X"/>](https://x.com/Nep_Timeline)
-[<img height="26" src="https://shields.io/badge/GitLab-000000.svg?style=flat-square&logo=Gitlab"/>](https://gitlab.com/Nep_Timeline)
-[<img height="26" src="https://shields.io/badge/GitGud-000000.svg?style=flat-square&logo=Gitlab"/>](https://gitgud.io/Nep_Timeline)
+[<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=element"/>](https://matrix.org/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=discord"/>](https://discord.com/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-ffffff.svg?style=flat-square&logo=telegram"/>](https://t.me/nep_timeline)
 [<img height="26" src="https://shields.io/badge/咲夜Sakura-000000.svg?style=flat-square&logo=steam"/>](https://steamcommunity.com/id/Sakion_Sakura/)
 [<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=threads"/>](https://threads.net/Nep_Timeline)
+[<img height="26" src="https://shields.io/badge/Nep_Timeline-000000.svg?style=flat-square&logo=bluesky"/>](https://timelinne.bsky.social)
 
 ## Support us
 
