@@ -4,8 +4,8 @@
 
 ## Github Stats
 
-[![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Timeline's Top language](https://github-readme-stats.vercel.app/api/top-langs?username=Nep-Timeline&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Timeline's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Nep-Timeline&show_icons=true&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Timeline's Top language](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Nep-Timeline&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
 
