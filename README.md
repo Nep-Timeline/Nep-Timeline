@@ -1,6 +1,6 @@
 # Hi there! I'm a Yu(ki)Saki丶Kanade! 👋
 
-[![Timeline's Count](https://profile-counter.glitch.me/Nep-Timeline/count.svg)](https://github.com/Nep-Timeline)
+[![Timeline's Count](https://count.getloli.com/@nep-timeline?name=nep-timeline&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/Nep-Timeline)
 
 ## Github Stats
 
